@@ -106,3 +106,11 @@ footer{
     background-color: var(--color1);
     margin: 14px auto 28px;
 }
+/*forwhom*/
+.forwhom h5{
+    padding: 50px;
+    border: 3px solid var(--color1);
+}
+.forwhom a{
+    text-decoration: none;
+}
